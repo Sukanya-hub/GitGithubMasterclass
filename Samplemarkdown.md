@@ -22,6 +22,24 @@ not a part of the list
 + [ ] task 1
 + [ ] task 2
 + [ ] task 3
+
+#Header 4 - creating tables
+
+Android | iOS | Windows
+--- | --- | ---
+Medium App for android | Medium App for iOS | Medium App for Windows
+align the changes as per the longest sentence in the line | check in preview | huktshhg, jjuytaggh, njhjhjhj, hhgn 
+
+#Header 5 - adding alignment to the tables (: position indicates that it is centre, left or right aligned, ** to do Bold) 
+
+Android | iOS | Windows
+:--- | :---: | ---:
+*Medium App for android* |  Medium App for iOS | **Medium App for Windows**
+align the changes as per the longest sentence in the line | check in preview huktshhg | huktshhg, jjuytaggh, njhjhjhj, hhgn
+| adding links  | [github](https://github.com/Sukanya-hub/GitGithubMasterclass) |   |
+
+
+
    
 
 
