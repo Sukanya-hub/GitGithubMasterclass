@@ -54,7 +54,17 @@ Android | iOS | Windows
 *Medium App for android* |  Medium App for iOS | **Medium App for Windows**
 align the changes as per the longest sentence in the line | check in preview huktshhg | huktshhg, jjuytaggh, njhjhjhj, hhgn
 | adding links  | [github](https://github.com/Sukanya-hub/GitGithubMasterclass) |   |
-| add the image syntax same as the web link format used, expect add a ! in begining| ![picture](download.png) |  |
+| upload the image in master branch and give the URL of the image here, expect add a ! in begining| ![picture](https://github.com/Sukanya-hub/GitGithubMasterclass/blob/master/download.png) |  |
+
+#Header 8 - adding videos
+
+Android | iOS | Windows
+:--- | :---: | ---:
+*Medium App for android* |  Medium App for iOS | **Medium App for Windows**
+align the changes as per the longest sentence in the line | check in preview huktshhg | huktshhg, jjuytaggh, njhjhjhj, hhgn
+| take the video link from any source, take the url and place the url in master folder, refer section 8 |   |   |
+
+
 
 
 
